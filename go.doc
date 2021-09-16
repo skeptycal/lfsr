@@ -1,0 +1,5 @@
+package lfsr // import "github.com/skeptycal/_play/lfsr"
+
+Package lfsr contains utilities for macOS.
+
+func Example()
